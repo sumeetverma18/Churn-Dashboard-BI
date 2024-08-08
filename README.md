@@ -1,1 +1,2 @@
 # Churn-Dashboard-BI
+# The document presents the "Churn-Dashboard-BI" includes a Power BI file and a dataset related to customer churn analysis. The repository currently lacks extensive descriptions or documentation but facilitates user engagement through available files and links. It is intended to assist users in understanding and visualizing customer churn data using business intelligence tools.
